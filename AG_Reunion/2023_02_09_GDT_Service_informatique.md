@@ -1,6 +1,5 @@
 # Groupe de Travail - Service Informatique
 
-## 
 - Role du SI
 - Outils de communication
   - Textes / resumes : MarkDown Github ?
