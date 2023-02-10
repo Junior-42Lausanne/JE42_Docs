@@ -1,6 +1,6 @@
-# Reunion SI
+# Groupe de Travail - Service Informatique
 
-## Ordre du jour
+## 
 - Role du SI
 - Outils de communication
   - Textes / resumes : MarkDown Github ?
@@ -10,13 +10,12 @@
 - Site web
   - But du (des ?) site(s)
     - Un site vitrine (site static, SEO blindee, ...)
-    - Une app web interne pour la gestion (CRM, gestion de personne)
+    - Une app web interne pour la gestion (CRM, gestion de personne) = odoo ?
 
-## Role du SI (service information)
-...
+
 
 ## Outils de communication
-- Annais connait les bails. Faire que Lowell regarde avec elle (niveau partenaire)
+- Anais connait les bails. Faire que Lowell regarde avec elle (niveau partenaire)
 - Remis a plus tard avec un groupe de travail
 
 ## Site web
