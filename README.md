@@ -1,6 +1,10 @@
 # JE42_Docs
 JE42
 
+Templates:
+
+- [template_PV.md]
+
 
 In AG_Reunion:
 
@@ -10,4 +14,5 @@ In AG_Reunion:
 - [2023_02_09_GDT_Service_informatique](https://github.com/Junior-42Lausanne/JE42_Docs/blob/main/AG_Reunion/2023_02_09_GDT_Service_informatique.md)
 
 - [2023_02_25_pre_AG](https://github.com/Junior-42Lausanne/JE42_Docs/blob/main/AG_Reunion/2023_02_25_Pre_AG.md)
+
 
