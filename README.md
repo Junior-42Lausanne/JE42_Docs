@@ -3,7 +3,7 @@ JE42
 
 Templates:
 
-- [template_PV.md]
+- [template_PV.md](https://github.com/Junior-42Lausanne/JE42_Docs/blob/main/AG_Reunion/template_PV.md)
 
 
 In AG_Reunion:
