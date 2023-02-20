@@ -16,7 +16,7 @@ Excusé.e.s :
 
 ---
 
-# Synthese AG
+# Synthese Réunion
 
 ## Lieu
 
