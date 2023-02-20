@@ -62,3 +62,19 @@ Energie
 
 -
 
+## Rôles de la prochaine réunion: 
+
+Animateur
+- 
+
+Scribe
+-
+
+Time Keeper
+-
+
+Pertinence
+-
+
+Energie
+-
