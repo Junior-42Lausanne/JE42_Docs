@@ -9,12 +9,10 @@
 	- Pertinence : 
 	- Gardien du temps : 
 	- Gardien de l'énergie : 
-
-Présent.e.s :
-- 
-
-Excusé.e.s : 
-- 
+- Présent.e.s :
+	- ... 
+- Excusé.e.s : 
+	- ... 
 
 ## Deroulement
 - Lecture de l'ordre du jour (1')
@@ -30,6 +28,9 @@ Excusé.e.s :
 # Synthese Réunion
 ...
 
+## Assignation des Projets
+- 
+
 # Prochaine réunion
 - Lieu : 
 - Heure : 
@@ -38,11 +39,9 @@ Excusé.e.s :
 	- Scribe : 
 	- Pertinence : 
 	- Gardien du temps : 
-	- Gardien de l'énergie : 
+	- Gardien de l'énergie :
+- A l'ordre du jour :
+	- premier point	
 
-## Assignation des Projets
-- 
 
-## Prochain Ordre du jour
-- 
 
