@@ -1,5 +1,4 @@
 # JE42_Docs
-JE42
 
 Templates:
 
