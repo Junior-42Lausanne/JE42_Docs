@@ -1,6 +1,6 @@
 # Réunion Christophe
 
-## présents: Jmorcom-
+## Présents: Jmorcom-
 
 ## Types d'éléctions: (ce qui peut être intéressant est de prendre un moment pour que tout le monde évoque ses attentes vis à vis de chaque poste)
 - organique: éléction ouverte avec candidature
