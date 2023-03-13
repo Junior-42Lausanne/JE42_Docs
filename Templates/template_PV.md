@@ -15,12 +15,15 @@
 	- ... 
 
 ## Deroulement
-- Lecture des buts du jour (1')
+- Lecture des informations et buts du jour (1')
 - Mise à jour de la pending list (5')
 - Points de l'ordre du jour (x')
 - Points à aborder la prochaine fois / actualisation de la pending list (2')
 - Retour de l'énergie checker (2')
 - Date/Heure/Lieu de la prochaine réunion (1')
+
+## Informations / comptes rendus (presentation de ce qui a ete fait)
+- Theme: detail
 
 ## Buts du jour (par ordre de priorite)
 - Sujet: finalité du sujet
